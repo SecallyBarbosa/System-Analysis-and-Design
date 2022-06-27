@@ -20,8 +20,8 @@ The first approach would be to listen to what the customer needs and then sugges
 
 
 
+[CS 255 Business Requirements Document Template (2) (1).docx](https://github.com/SecallyBarbosa/System-Analysis-and-Design/files/8990371/CS.255.Business.Requirements.Document.Template.2.1.docx)
 
-[CS 255 Business Requirements Document Template.docx](https://github.com/SecallyBarbosa/System-Analysis-and-Design/files/8990304/CS.255.Business.Requirements.Document.Template.docx)
 
 
 [CS 255 Project 2.docx](https://github.com/SecallyBarbosa/System-Analysis-and-Design/files/8990323/CS.255.Project.2.docx)
